@@ -108,7 +108,7 @@ namespace Drive
         {
             using (var client = new HttpClient())
             {
-                string apiKey = "0c5eaa2cb95bfe8128c1444cd463d6be"; // 카카오 REST API 키
+                string apiKey // 카카오 REST API 키
                 string requestUrl = $"https://dapi.kakao.com/v2/local/geo/coord2address.json?x={longitude}&y={latitude}&input_coord=WGS84";
 
                 client.DefaultRequestHeaders.Add("Authorization", $"KakaoAK {apiKey}");

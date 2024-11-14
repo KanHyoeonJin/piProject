@@ -9,8 +9,6 @@ namespace Drive
     //TMAP 및 카카오 API를 사용해 경로 정보 및 주소를 가져오는 서비스 클래스
     public class DirectionsService
     {
-        private readonly string apiKey = "IZSRsg7n2oo6wq5q9rTh8tjHcvfmafL3eZjNh4T2"; // TMAP API 키
-        private readonly string connectionString = "Server=192.168.0.230;Database=drive_data;Uid=root;Pwd=12345;";
         //TMAP API를 통해 두 지점 간의 거리와 예상 소요 시간 계산
         public async Task<(double Distance, string TimeFormat)> GetDistanceAsync(double startLat, double startLng, double endLat, double endLng, string EmployeeCode, string EmployeeName)
         {

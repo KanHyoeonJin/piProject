@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "coral-environs-440401-p8",
-  "private_key_id": "52c240f1a8a5cbd7eaec899b8872b023c1712c60",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSEvZszwvhYIh2\n35ELxCH3Tdh+6CNZrhZVmbdqoUPhW6mC86AjKzMEHKgBNyJ+H/Mx8Gnk/aMMPSgg\nOVMIwzomjzC3kxJsq1j3j37QjPsrkNWmig27TnQWNuoqEBsTGg+L3I57ChIm2iTg\nvJmohCnHJCodWbR+GJU+wJS4jv2wWN67S6vhjwrdCwyQ6oBsLwIPBzUP1sTIX5y4\nzThrCMFI5Az4fKYLrBnlFBbyIlZPN2up9Mr8f1QN7yG7cOkPMWQH+1fBAzNxeCLA\ntZDUAstQaKpKoCJ3PJIJ36qRacJdK3cH2jlmpSwPDjZ34HctP4KA3gZSkuidRi/2\nxoQlYtxvAgMBAAECggEADBoJE2Ol2tKqC5sjA6QIolnvLThjMVtUW1wkT2+z1XhI\nF2LCqhc6n0UWgB9Gusc/2SvPQhrnRqzMZbsKD4hJCYfEY/kJxjn94Wige3uqlWXm\n5Wi7kYCC6pI7HSf/bjoy/oXTwgrIDTL2ai4F1um4IljzKkJTyzyTJMNErvOdvd3G\n4oaeNYRpk+uuBfL5wX05xKfosbZTfTh4xeVVkGOeFMhLGTtE7ke6MQQhz9wXayxG\n8Okfm5E/cdcL5pak91lEG6xs4FegHxEyiAb+gsq/xU4EY4NGmqz7Pn411+BRxXI4\nQzaLjpuqOyJ7ObK6i4TQI2WD4iG5ZoFWZMQHyTka4QKBgQDMiegCy7m39T9R6rzA\noEAJaVNfcZz17hXeJbFd7zX7kKDx/KWRUn93eOTz285xfG/QAF4co7YW4qJQl3YA\ndyN0EPf6lJtKRtq4vRbkjKKwx9XXS9LAzL05ehcSGTVYjOqNMU0ga3z0VZ/ofai/\n1xiklIixwhuuXo9Ei7HIYa5OYQKBgQC202tn0tPhnL6lzYZ5u88iDOe00dSRXfq4\nu/uOxiuIhiXUurV6oqchjPYqIvHhOj2kbGidYzB/GqINcFZOUe6DmAc6VzfFxXyv\n/1n/V+OgCSM2IF19TE/GijLO7GvgzqCYG2YjmyxTybYMtq18Jt4DU6GhDtiFCZDB\nr5HX1Ir8zwKBgGQy1qav+I4GpXtSvB69IkG6CC7EcHkFpk7KNkZnDhHruvxwoQc8\n29bCMZ7IuixcIkZKN9Bd3rD9WziRyivWMVcFjQWDUUOkzDcd4p4ZywVBEB/FNDxg\nz/3dMnoaQUjc13ZNhZPxNChZ3dk93bIFBDxzyzcReRAFoLeam4AnYgVhAoGAPMf1\nAUNaJbuStlSpzHbf2hYoQjkwTlPMMvZsH39KoczXbu3Tv72rir/uZvvPJm3SaIOS\nFCER0m/sSEN8rfUXMrCsVn0AkcOiPHDMXtO9XUssZaZE7o8cRolTcu+uvcJ0KZ2S\nS2wfRIve9kMVUh0p2jlHlt/0o+YWNg5EklibDIkCgYEAtT8m/GnxWKEntyDbFFDO\nngzAd+r5Y9h8UEz4bzOYMiwyxYWt7MItRljFjs1bBFoNEjeCQf63bSu2FqBb/YZe\nAwuZobzbFaPep7cmmg07ozxfG1b8eWflSg6LU0J/sGGpiiRnn+xOgVrn25a40QX3\nwVt7+KYuZ+kb0gkMOkvk+vY=\n-----END PRIVATE KEY-----\n",
-  "client_email": "piproject@coral-environs-440401-p8.iam.gserviceaccount.com",
-  "client_id": "102759531539496621049",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/piproject%40coral-environs-440401-p8.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+

@@ -1,0 +1,40 @@
+﻿{
+  "employees": [
+    {
+      "employeesID": "1000",
+      "name": "간현진",
+      "Position": "집게 사장",
+      "image": "khan.jpg"
+    },
+    {
+      "employeesID": "1001",
+      "name": "최은미",
+      "Position": "상무 이사",
+      "image": "choi.jpg"
+    },
+    {
+      "employeesID": "1002",
+      "name": "이대한",
+      "Position": "꼬장 부장",
+      "image": "lee.jpg"
+    },
+    {
+      "employeesID": "1003",
+      "name": "조민영",
+      "Position": "만년 과장",
+      "image": "jo.jpg"
+    },
+    {
+      "employeesID": "1004",
+      "name": "곽노찬",
+      "Position": "주임",
+      "image": "koak.jpg"
+    },
+    {
+      "employeesID": "1005",
+      "name": "이한빈",
+      "Position": "매력 사원",
+      "image": "han.jpg"
+    }
+  ]
+}

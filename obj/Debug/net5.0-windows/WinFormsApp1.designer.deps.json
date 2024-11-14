@@ -1,0 +1,32 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GMap.NET.WindowsForms/1.7.5": {
+        "runtime": {
+          "lib/net40/GMap.NET.Core.dll": {
+            "assemblyVersion": "1.7.5.0",
+            "fileVersion": "1.7.5.0"
+          },
+          "lib/net40/GMap.NET.WindowsForms.dll": {
+            "assemblyVersion": "1.7.5.0",
+            "fileVersion": "1.7.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GMap.NET.WindowsForms/1.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VA2836bCMgIAhcvpQIJpmDJrQFm+nnH8AiqKzGqvMAoamO+UqAoNy6b+YPKNAqS1+2RRAcq12nrC582tUcb90A==",
+      "path": "gmap.net.windowsforms/1.7.5",
+      "hashPath": "gmap.net.windowsforms.1.7.5.nupkg.sha512"
+    }
+  }
+}

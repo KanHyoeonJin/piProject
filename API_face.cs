@@ -14,9 +14,7 @@ namespace Drive
     //얼굴 인식 api를 가져오는 클래스
     internal class API_face
     {
-        // api 키 2종
-        private static readonly string accessKeyId = "AKIAVRUVTFDA7FFIZSDK";
-        private static readonly string secretAccessKey = "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";
+     
         // api 지역
         private static readonly RegionEndpoint region = RegionEndpoint.APNortheast2;
         //api 객체
